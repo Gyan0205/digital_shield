@@ -16,9 +16,9 @@ Digital Shield is a security-focused project aimed at detecting anomalies in rai
 
 ## 👥 Team Members
 - Sagar
-- Member 2
-- Member 3
-- Member 4
+- Kumar
+- Reddy
+- Anwithkar
 
 ## 📂 Project Structure
 (To be updated)
