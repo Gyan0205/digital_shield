@@ -15,10 +15,10 @@ Digital Shield is a security-focused project aimed at detecting anomalies in rai
 - GitHub for version control
 
 ## 👥 Team Members
-- Sagar
-- Kumar
-- Reddy
-- Anwithkar
+- Yelapu Gyan Sagar
+- Cheela Aksheth Kumar
+- Chittepu Abhilash Reddy
+- P Joshith Anwithkar
 
 ## 📂 Project Structure
 (To be updated)
