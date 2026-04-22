@@ -1,0 +1,28 @@
+# Digital Shield — Git Ignore Rules
+
+# Environment credentials — NEVER commit
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Output files (regenerated each run)
+outputs/*.csv
+outputs/*.json
+
+# Log files
+logs/*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
